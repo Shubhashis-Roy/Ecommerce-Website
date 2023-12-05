@@ -8,7 +8,7 @@
 
 <hr>
 <h2>Description</h2>
-It's a simulation of client side e-commerce website with featues as <b>select a product</b>, <b>added to card </b> and proceed for <b>checkout</b> and <b>payment options</b>. It simulates a shopping cart within a website.
+It's a simulation of a client-side E-commerce website with features such as <b>select a product</b>, <b>added to card </b> and proceed for <b>checkout</b> and <b>payment options</b>. It simulates a shopping cart within a website.
 
 <h3> <a href="https://subhashisroy.github.io/Ecommerce-Website/">View Demo</a> </h3>
 
